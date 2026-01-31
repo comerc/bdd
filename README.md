@@ -38,4 +38,3 @@
 - [k6 + Gherkin: Нагрузочные тесты (Go)](https://gemini.google.com/share/010512e6f6d7)
 - [Convert natural language requirements into BDD](https://gherkinizer.com/)
 - [Cucumber Test Case Generator](https://workik.com/cucumber-test-case-generator)
-https://gemini.google.com/share/1deecc0f2fdd
